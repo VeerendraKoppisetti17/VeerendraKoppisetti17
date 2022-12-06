@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VeerendraKoppisetti17
-- 👀 I’m interested in becoming analyst or a DEVOOPS
+- 👀 I’m interested in becoming analyst or a DEVooPS
 - 🌱 I’m currently learning about github and sql
 - 💞️ I’m looking to collaborate on any project based on these
 - 📫 reach me at koppisettiveerendra55@gmail.com 
