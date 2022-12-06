@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeerendraKoppisetti17
 - 👀 I’m aspired to become an analyst or a DEVooPS
-- 🌱 I’m currently learning about github and sql
+- 🌱 I’m currently learning about  SQL and Python
 - 💞️ I’m looking to collaborate on any project based on these
 - 📫 reach me at koppisettiveerendra55@gmail.com 
 
